@@ -1,0 +1,6 @@
+Copy to <body>
+
+  <div class="topnav">
+   <a href="https://newmode1.github.io/simple-web/index.html">Home</a>
+   <a href="https://github.com/NewMode1/simple-web">Source</a>
+  </div>
